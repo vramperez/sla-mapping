@@ -1,0 +1,6 @@
+broker, nTopics, nNotifications, nSubscriptions, msgSize, notificationFreq, Avg. Throughput, Avg. Delay, Avg. CPU(ns), Avg. CPU(%), Avg. Memory(B), rxBytes, rxPackets, txBytes, txPackets
+silboPS-broker,0,1000000,100,100,1000,991,565532,0,1.87322,5.42304e+07,0,0,0,0
+silboPS-broker,0,1000000,1000,100,1000,991,565560,0,2.77776,5.29296e+07,0,0,0,0
+silboPS-broker,0,1000000,5000,100,1000,990,565577,0,3.23599,5.52042e+07,0,0,0,0
+silboPS-broker,0,1000000,10000,100,1000,990,566001,0,4.04063,5.41481e+07,0,0,0,0
+silboPS-broker,0,1000000,50000,100,1000,988,567301,0,9.39377,3.61915e+08,0,0,0,0
