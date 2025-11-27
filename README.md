@@ -1,4 +1,4 @@
-# FLAS
+# SLA
 
 Associated repository to the paper *From SLA to vendor-neutral metrics: An intelligent knowledge-based approach for multi-cloud SLA-based broker* published in [International Journal Of Intelligent Systems](https://doi.org/10.1002/int.22638) containing data, and scripts for analysis and figures.
 
